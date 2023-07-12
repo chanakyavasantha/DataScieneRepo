@@ -1,0 +1,15 @@
+artifact_uri: file:///home/itachi/DataspellProjects/Car_price/mlruns/0/e677451f547b445ea1a541658d07e5fe/artifacts
+end_time: 1689153265564
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e677451f547b445ea1a541658d07e5fe
+run_name: colorful-steed-19
+run_uuid: e677451f547b445ea1a541658d07e5fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689153130093
+status: 3
+tags: []
+user_id: itachi

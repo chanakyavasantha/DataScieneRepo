@@ -1,0 +1,15 @@
+artifact_uri: file:///home/itachi/DataspellProjects/Car_price/mlruns/0/c0d9f15cced245faa4ed8771b8872cae/artifacts
+end_time: 1689153301654
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c0d9f15cced245faa4ed8771b8872cae
+run_name: agreeable-ant-2
+run_uuid: c0d9f15cced245faa4ed8771b8872cae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689153267559
+status: 3
+tags: []
+user_id: itachi

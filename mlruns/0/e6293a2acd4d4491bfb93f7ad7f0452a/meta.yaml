@@ -1,0 +1,15 @@
+artifact_uri: file:///home/itachi/DataspellProjects/Car_price/mlruns/0/e6293a2acd4d4491bfb93f7ad7f0452a/artifacts
+end_time: 1689153124542
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e6293a2acd4d4491bfb93f7ad7f0452a
+run_name: sassy-fowl-670
+run_uuid: e6293a2acd4d4491bfb93f7ad7f0452a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689152987637
+status: 3
+tags: []
+user_id: itachi
